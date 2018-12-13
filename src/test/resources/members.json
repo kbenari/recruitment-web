@@ -1,0 +1,20 @@
+[
+    {
+      "memberId": "001",
+      "wallet": "135",
+      "type": "student",
+      "year":2
+    },
+    {
+      "memberId": "002",
+      "wallet": "250",
+      "type": "resident",
+      "year":0
+    },
+    {
+      "memberId": "003",
+      "wallet": "50",
+      "type": "student",
+      "year":1
+    }
+]
